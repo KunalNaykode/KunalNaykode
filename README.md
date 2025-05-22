@@ -12,7 +12,7 @@
 
 - 💞️ I’m looking to collaborate **on a full-time Data Analyst job.**
 
-- 📫 How to reach me **rajvardhansinghparmar13@gmail.com**
+- 📫 How to reach me **kunalnaykode@gmail.com**
 
 - 👨‍💻 All of my **Projects** are available at [Link]()
 
