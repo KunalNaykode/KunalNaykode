@@ -1,7 +1,7 @@
 - ![image](https://github.com/user-attachments/assets/0f2abfc0-c95b-413b-b614-b14c91a1a927)
 - Hi👋, I'm Kunal Naykode
 - A passionate Data Analyst from India.
-
+<br>
 ![image](https://github.com/user-attachments/assets/c1233431-0693-4dcc-82e2-e46cf594d46f)
 
 
@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 🌱 I’m skilled in MySQL, Power BI, Tableau, Python and Advanced Excel.
 
 💞️ I’m looking to collaborate on a full-time Data Analyst job.
-                                                                                            ![image](https://github.com/user-attachments/assets/8a65a56b-bcc4-4624-98ba-5383703ae585)
+                                                        ![image](https://github.com/user-attachments/assets/8a65a56b-bcc4-4624-98ba-5383703ae585)
 
 📫 How to reach me kunalnaykode@gmail.com
 
@@ -28,9 +28,13 @@ You can click the Preview link to take a look at your changes.
 
 
 Connect with me🤝
+
 Kunal Naykode 
+
 https://www.linkedin.com/in/kunal-naykode-0b6224283
+
 Tools and Technologies I Utilize⚙️
+
 mysql Power BI Microsoft Excel python pandas
 
 
