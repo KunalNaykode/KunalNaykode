@@ -1,10 +1,7 @@
 - ![image](https://github.com/user-attachments/assets/0f2abfc0-c95b-413b-b614-b14c91a1a927)
 
-<center> 
-    <big>
-      Hi👋, I'm Kunal Naykode 
-    </big> 
-</center> 
+
+<h1 align="center" class="heading-element" dir="auto"> Hi👋, I'm Kunal Naykode </h1>
 
 <hr>
 
