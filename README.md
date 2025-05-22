@@ -3,7 +3,8 @@
 
 - Hi👋, I'm Kunal Naykode
 - A passionate Data Analyst from India.
-<br>
+
+<hr>
 
 ![image](https://github.com/user-attachments/assets/28de5925-84d3-4b85-ae5e-26d50cb8a278)
 
